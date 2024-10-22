@@ -143,5 +143,13 @@ h3{
 .copyright p{
     color: #94969f;
     float: right;
-    padding: 15px;
+    padding-bottom: 15px;
+}
+
+marquee{
+    font-weight: 700;
+    color: #3b5467;
+    filter: drop-shadow( 1px rgba(10, 220, 239, 0.693));
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+    margin-top: 10px;
 }
